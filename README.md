@@ -8,7 +8,7 @@ FB : https://www.facebook.com/xDmmAsTeR.Always.Fire
 PAGE : https://www.facebook.com/xdmmaster.black.hat.hacker/
 
 GROUP : https://facebook.com/groups/653698381981772/ 
-# CMD 
+# 🔰CMD🔰 
 ```
 pkg update -y 
 pkg upgrade -y 
